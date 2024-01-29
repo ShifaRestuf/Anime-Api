@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://consumet.org/">
-    <img alt="Consumet" src="https://consumet.org/images/consumetlogo.png" width="150">
+  <a href="https://bit.ly/D-1301/">
+    <img alt="iNumaki-Api" src="https://media.discordapp.net/attachments/1179424191083204709/1201440406253076560/IMG_20240127_010415_250.jpg?ex=65c9d392&is=65b75e92&hm=c9f6006c48d7b58caf05c831a57aa644274ab8240904cfcee62bb19c42d61c5a&" width="150">
   </a>
 </p>
 
 <h1 align="center">
-  Consumet API
+  iNumaki Api
 </h1>
 <p align="center">
-  Consumet provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
+  iNumaki Api provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
 </p>
 <p align="center">
     <a href="https://github.com/consumet/api.consumet.org/actions/workflows/docker-build.yml">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-Consumet scrapes data from various websites and provides APIs for accessing the data to satisfy your needs.
+iNumaki Api scrapes data from various websites and provides APIs for accessing the data to satisfy your needs.
 
 <h2> Table of Contents </h2>
 
@@ -51,8 +51,8 @@ installation is simple.
 Run the following command to clone the repository, and install the dependencies.
 
 ```sh
-$ git clone https://github.com/consumet/api.consumet.org.git
-$ cd api.consumet.org
+$ git clone https://github.com/ShifaRestuf/Anime-Api
+$ cd Anime-Api
 $ npm install #or yarn install
 ```
 
@@ -84,7 +84,7 @@ Host your own instance of Consumet API on Heroku using the button below.
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/consumet/api.consumet.org/tree/main)
 
 ### Vercel
-Host your own instance of Consumet API on Vercel using the button below.
+Host your own instance of Anime-Api on Vercel using the button below.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fconsumet%2Fapi.consumet.org)
 
